@@ -105,9 +105,6 @@ public class CaptureApplicationTests {
         return StreamUtils.copyToString(content, Charset.defaultCharset());
     }
 
-    @Test
-    public void jdkCapture() {
-    }
 
 
 }
